@@ -10,7 +10,7 @@
 [Задание 1.6](https://github.com/slavndn/slavndn.github.io/blob/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%94.%D0%9C.%20%D0%98%D0%92%D0%A2-1.2%20%D0%98%D0%A1%D0%A0%201.6.pdf)  
 [Задание 1.7](https://github.com/slavndn/slavndn.github.io/blob/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%94.%D0%9C.%20%D0%98%D0%92%D0%A2-1.2%20%D0%98%D0%A1%D0%A0-1.7.pdf)  
 [Задание 1.8](https://github.com/slavndn/slavndn.github.io/blob/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%94.%D0%9C.%20%D0%98%D0%92%D0%A2-1.2%20%D0%98%D0%A1%D0%A0%201.8.pdf)  
-[Задание 1.9]()  
+[Задание 1.9](https://github.com/slavndn/slavndn.github.io/blob/main/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%94.%D0%9C.%20%D0%98%D0%92%D0%A2-1.2%20%D0%98%D0%A1%D0%A0-1.9.png)  
 
 ## **Задания ВСР** 
 
