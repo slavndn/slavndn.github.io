@@ -43,4 +43,5 @@
 
 [Задание на практику](https://github.com/slavndn/slavndn.github.io/blob/22d64844d30ddd428d07ace8f22ceb14789334ad/Славный%20Д.М.%20ИВТ-1.2%20Задание-даты.pdf)  
 [Отчет по практике](https://github.com/slavndn/slavndn.github.io/blob/22d64844d30ddd428d07ace8f22ceb14789334ad/Славный%20Д.М.%20ИВТ-1.2%20Отчет%20QR.pdf) 
+
 ![Практика_1](https://user-images.githubusercontent.com/124807187/219799327-2630f67a-d150-4e00-b9a5-46f5ce977a7f.png)
